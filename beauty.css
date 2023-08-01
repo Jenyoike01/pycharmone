@@ -1,0 +1,48 @@
+ul{
+    margin: 5px;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+}
+li,a{
+    padding:10px;
+    color: #e5355e;
+    text-decoration: none;
+    font-family: Cambria;
+    font-size: 20px;
+    margin-left: 20px;
+    display: block;
+}
+li a:hover{
+    color: gold;
+    background-color: #18dc5e;
+    font-style: italic;
+}
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    color: darkred;
+    padding: 20px;
+    margin: 20px;
+    background-color: dimgrey;
+}
+.cars{
+    border: 2px solid #00ff51;
+    text-align: center;
+    color: #00668b;
+    padding: 20px;
+    margin: 20px;
+    background-color: darkgoldenrod;
+}
+.FRUITS{
+    border: 2px solid #f3f0f0;
+    text-align: center;
+    color: #410ed9;
+    padding: 20px;
+    margin: 20px;
+    background-color: chartreuse;
+}

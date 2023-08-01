@@ -1,0 +1,23 @@
+.body{
+    background-color: darkgoldenrod;
+
+}
+.head{
+    text-align: center;
+}
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
+ol{
+    color: #e5355e;
+    font-family: Verdana;
+
+}
+ul{
+    color: darkcyan;
+    font-family: "Roboto Thin";
+}
+li{
+    align-content: center;
+}

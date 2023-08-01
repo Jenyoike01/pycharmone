@@ -1,0 +1,23 @@
+ul{
+    margin: 5px;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+}
+li,a{
+    padding:10px;
+    color: #e5355e;
+    text-decoration: none;
+    font-family: Cambria;
+    font-size: 20px;
+    margin-left: 20px;
+}
+li a:hover{
+    color: gold;
+    background-color: lightpink;
+    font-style: italic;
+}

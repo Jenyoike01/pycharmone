@@ -1,0 +1,84 @@
+.bodi{
+    background-color: brown;
+}
+
+.form{
+
+    align-self: center;
+    margin-top: 10%;
+    background-color: #6a0bb8;
+    border-collapse: collapse;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.h2{
+    color: #18a8dc;
+    text-align: center;
+    margin-top: 10px;
+}
+.fname{
+margin-left: 10%;
+    color: #ffffff;
+}
+.jina{
+    margin-left: 20%;
+}
+.lname{
+    margin-left: 10%;
+    color: #ffffff;
+}
+.jina2{
+    margin-left: 20%;
+}
+.email{
+    margin-left: 10%;
+    color: #ffffff;
+}
+.baruapepe{
+    margin-left: 24%;
+}
+.Dob{
+    margin-left: 10%;
+    color: #ffffff;
+}
+.tarehe{
+    margin-left: 20%;
+}
+.pass{
+    margin-left: 10%;
+    color: #ffffff;
+}
+.nenosiri{
+    margin-left: 21%;
+}
+.submit{
+    color: black;
+    text-align: center;
+    background-color: #18dc22;
+    margin-left: 45%;
+}
+.gender{
+margin-left: 35%;
+    color: white;
+}
+.female{
+    color: white;
+}
+.other{
+    color: white;
+}
+.course{
+    margin-left: 10%;
+    color: white;
+}
+.profpic{
+    margin-left: 10%;
+    color: white;
+}
+.option{
+    margin-left: 20%;
+}
+.profile{
+    margin-left: 20%;
+}
